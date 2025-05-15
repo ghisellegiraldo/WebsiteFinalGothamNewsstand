@@ -65,11 +65,10 @@ main {
   text-decoration: underline;
 }
 
-/* Spalsh Section */
 .splash {
   text-align: center;
   padding: 5em 1em;
-  background-image: url('splashimg.jpg');
+  background-image: url('GothamNewsstandBanner.png');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;

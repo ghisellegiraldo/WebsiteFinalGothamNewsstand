@@ -7,7 +7,6 @@
   box-sizing: border-box;
 }
 
-/* Body Styling */
 html, body {
   height: 100%;
   background-color: #d7f3f9;
@@ -27,7 +26,6 @@ main {
   background-color: #d7f3f9;
 }
 
-/* Navbar Styling */
 .navbar {
   background-color: #d7f3f9;
   color: #3b0b4b;

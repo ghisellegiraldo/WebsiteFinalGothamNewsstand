@@ -137,15 +137,6 @@ main {
   margin-bottom: 10px;
 }
 
-.bottom-image {
-  position: fixed;
-  bottom: 0;
-  left: 0;
-  width: 100%;
-  height: auto;
-  z-index: 1000;
-} 
-
 footer {
   text-align: center;
   padding: 1em 0;

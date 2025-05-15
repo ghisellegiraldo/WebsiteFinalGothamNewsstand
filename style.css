@@ -102,7 +102,16 @@ main {
 .splash2 {
   text-align: center;
   padding: 5em 1em;
-  background-color: #d7f3f9;
+  background-image: url('slashimg.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: white;
+  text-shadow: 
+    -1px -1px 0 black,
+    1px -1px 0 black,
+    -1px 1px 0 black, 
+    1px 1px 0 black;
 }
 
 .splash2 h1 {

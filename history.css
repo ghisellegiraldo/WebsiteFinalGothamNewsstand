@@ -42,10 +42,10 @@
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    color: white;
+    color: black;
     text-shadow: 
-      -1px -1px 0 black,
-      1px -1px 0 black,
-      -1px 1px 0 black, 
-      1px 1px 0 black;
+      -1px -1px 0 white,
+      1px -1px 0 white,
+      -1px 1px 0 white, 
+      1px 1px 0 white;
 }

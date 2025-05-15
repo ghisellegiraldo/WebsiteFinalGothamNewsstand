@@ -1,0 +1,147 @@
+/* General Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Body Styling */
+html, body {
+  height: 100%;
+  background-color: #d7f3f9;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  background-color: #d7f3f9;
+}
+
+main {
+  flex: 1;
+  background-color: #d7f3f9;
+}
+
+/* Navbar Styling */
+.navbar {
+  background-color: #d7f3f9;
+  color: #3b0b4b;
+  padding: 1em 0;
+}
+
+.navbar-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1em;
+}
+
+.logo {
+  font-size: 1.5em;
+  text-decoration: none;
+  color: #fff;
+}
+
+.nav-links {
+  display: flex;
+  gap: 1em;
+  color: #3b0b4b;
+  text-shadow: 1px 1px 2px #b91e65;
+}
+
+.nav-links a {
+  color: #3b0b4b;
+  text-decoration: none;
+}
+
+.nav-links a:hover {
+  text-decoration: underline;
+}
+
+/* Spalsh Section */
+.splash {
+  text-align: center;
+  padding: 5em 1em;
+  background-image: url('splashimg.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: white;
+  text-shadow: 
+    -1px -1px 0 black,
+    1px -1px 0 black,
+    -1px 1px 0 black, 
+    1px 1px 0 black;
+}
+
+.splash h1 {
+  font-size: 2.5em;
+  color: white;
+  text-shadow: 
+    -1px -1px 0 black,
+    1px -1px 0 black,
+    -1px 1px 0 black, 
+    1px 1px 0 black;
+}
+
+.splash p {
+  font-size: 1.2em;
+  margin-top: 1em;
+  color: white;
+  text-shadow: 
+    -1px -1px 0 black,
+    1px -1px 0 black,
+    -1px 1px 0 black, 
+    1px 1px 0 black;
+}
+
+.splash2 {
+  text-align: center;
+  padding: 5em 1em;
+  background-color: #d7f3f9;
+}
+
+.splash2 h1 {
+  font-size: 2.5em;
+}
+
+.splash2 p {
+  font-size: 1.2em;
+  margin-top: 1em;
+}
+
+.social-media-columns {
+  display: flex; 
+  justify-content: space-between; 
+  align-items: center; 
+  gap: 20px; 
+}
+
+.social-media {
+  flex: 1; 
+  text-align: center; 
+}
+
+.social-media a {
+  text-decoration: none; 
+  color: inherit; 
+}
+
+.social-media img {
+  height: 200px; 
+  width: auto;
+  margin-bottom: 10px;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  padding: 1em 0;
+  background-color: #333;
+  color: #fff;
+}

@@ -1,0 +1,48 @@
+.history-title {
+  text-align: center;
+  padding: 5em 1em;
+  color: white;
+  text-shadow: 
+    -1px -1px 0 black,
+    1px -1px 0 black,
+    -1px 1px 0 black, 
+    1px 1px 0 black;
+}
+
+.history-title h1 {
+  font-size: 2.5em;
+  color: white;
+  text-shadow: 
+    -1px -1px 0 black,
+    1px -1px 0 black,
+    -1px 1px 0 black, 
+    1px 1px 0 black;
+}
+
+.history-title p {
+  font-size: 1.2em;
+  margin-top: 1em;
+  color: white;
+  text-shadow: 
+    -1px -1px 0 black,
+    1px -1px 0 black,
+    -1px 1px 0 black, 
+    1px 1px 0 black;
+}
+
+.history-story {
+    border: 2px solid black;
+    padding: 20px;
+    margin: 30px;
+    border-radius: 10px;
+    background-image: url('https://marketplace.canva.com/EAFSgnArtPs/1/0/1600w/canva-beige-blank-6-panel-comic-strip-q-5vGdkFz7Q.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white;
+    text-shadow: 
+      -1px -1px 0 black,
+      1px -1px 0 black,
+      -1px 1px 0 black, 
+      1px 1px 0 black;
+}

@@ -1,6 +1,5 @@
 /*Author: Ghiselle Giraldo*/
 
-
 .product-columns {
   display: flex; 
   justify-content: space-between; 
@@ -28,5 +27,3 @@
   width: auto;
   margin-bottom: 10px;
 }
-
-
